@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository.
+# the-ones-in-power
+This is a poem about guns and minds.
